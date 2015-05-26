@@ -1,5 +1,7 @@
 # Meta Eloquent
 
+[![Latest Stable Version](https://poser.pugx.org/dishark/metaeloquent/v/stable)](https://packagist.org/packages/dishark/metaeloquent) [![Total Downloads](https://poser.pugx.org/dishark/metaeloquent/downloads)](https://packagist.org/packages/dishark/metaeloquent) [![Latest Unstable Version](https://poser.pugx.org/dishark/metaeloquent/v/unstable)](https://packagist.org/packages/dishark/metaeloquent) [![License](https://poser.pugx.org/dishark/metaeloquent/license)](https://packagist.org/packages/dishark/metaeloquent)
+
 Meta Eloquent is an eloquent booster that allows it to easily manage HTTP Meta tags.
 
 # Installation
